@@ -1,0 +1,59 @@
+Serious game{
+    Especie de jogo criado com incentivo em ensinar, treinar ou mudar comportamento, nao apenas por entreterimento, ou seja, em vez de ensinar ou incentivar atraves de textos ou aulas tradicionais, a aprendizagem e incentivo é feito como se fosse um jogo com desafios ou incentivos através de pontos ou recompensas.
+}
+
+Freamwork usado = PICOC{
+    Ajuda o pesquisador a transformar uma ideia de pesquisa em uma pergunta cientifica bem estruturada.
+
+    P – Population (População)
+    Quem é o público ou objeto estudado{
+        Pessoas com sobrepeso, usuarios de apps de saude, jovens, adultos.
+    }
+
+    I – Intervention (Intervenção)
+    Qual técnica, método ou tecnologia está sendo aplicada{
+        gamificação, serious game, aplicativo de saude, desafios, metas diaris, recompensas, pontos.
+    }
+
+    C – Comparison (Comparação)
+    Com o que essa intervenção será comparada{
+        app de gamificação com insentivo vs app sem gamificação.
+    }
+
+    O – Outcomes (Resultados)
+    Quais resultados ou efeitos você quer medir{
+        Perda de peso, redução do imc, habitos saudaveis e continuos.
+    }
+
+    C – Context (Contexto)
+    Em que ambiente ou situação o estudo acontece{
+        atividade fisica, dieta, mudança de comportamento, motivação diaria com recompensa.
+    }
+}
+
+String de busca{
+    População
+    overweight, obesity, "weight loss", adults, youth.
+
+    Intervenção
+    gamification, "serious game", "game elements", "game mechanics".
+
+    Comparação
+    "non-gamified app", "traditional health app", "without gamification".
+
+    Resultados
+    "weight loss", BMI, "body mass index", "healthy habits", adherence.
+
+    Contexto
+    "mobile health", mHealth, "fitness app", "health application", "behavior change".
+
+    ---------------------------------------------------------------------------------
+
+    ("weight loss" OR obesity OR overweight)
+    AND
+    (gamification OR "serious games" OR "game elements")
+    AND
+    ("mobile health" OR mHealth OR "fitness app" OR "health application")
+    AND
+    ("behavior change" OR motivation OR adherence)
+}
