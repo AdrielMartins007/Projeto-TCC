@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: linear-gradient(to bottom, white, rgb(156, 156, 211), white);
+    background-image: linear-gradient(to bottom, #fff9e6, #ffe9a8);
     background-attachment: fixed;
     background-repeat: no-repeat;
     display: flex;
