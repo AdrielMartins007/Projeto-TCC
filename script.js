@@ -10,5 +10,5 @@ function animacaoLogo() {
         imgNumber = -1;
     }
 
-    setTimeout(animacaoLogo, 80);
+    setTimeout(animacaoLogo, 90);
 }
